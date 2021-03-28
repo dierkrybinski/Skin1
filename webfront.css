@@ -701,9 +701,10 @@ img {
   box-shadow: 0 1px 2px rgba(0,0,0,0.12)/*scc1*/, 0 1px 3px rgba(0,0,0,0.24)/*scc2*/;
 }
 
-.ipsLogin {
+/*.ipsLogin {
     background-image: none;
 }
+*/
 
 .ipsTabPane>.content {
     background-image: none;
@@ -717,12 +718,12 @@ img {
     border-color: transparent;
 }
 
-
+/*
 .ipsLogin {
     background-image: none;
     background-color: transparent;
 }
-
+*/
 
 .ipsNotifications>.ipsNotification{
   border-radius: 3px;
