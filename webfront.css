@@ -30,3 +30,10 @@
 .ipsContentChanger > .navigation {
 	background-color: #111111;
 }
+
+/* Statuszeile, wird an der height mit 34 px erkannt */
+.bottom[style*="height: 34px;"] .navigation
+{
+  box-shadow: 0 0 2px rgba(255,255,255,0.24);
+  background: #111111/*bca*/;
+}
