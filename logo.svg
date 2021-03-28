@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
@@ -17,10 +17,22 @@
   <defs
      id="defs2">
     <rect
-       x="28.72619"
-       y="88.446429"
+       x="4.8947916"
+       y="9.6572914"
+       width="605.49896"
+       height="206.63959"
+       id="rect866" />
+    <rect
+       x="379.28021"
+       y="48.551041"
+       width="169.9948"
+       height="21.695833"
+       id="rect860" />
+    <rect
+       x="28.726191"
+       y="88.446426"
        width="198.87648"
-       height="42.533374"
+       height="42.533375"
        id="rect20" />
   </defs>
   <sodipodi:namedview
@@ -31,7 +43,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="748.77942"
+     inkscape:cx="337.35947"
      inkscape:cy="454.40706"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -41,7 +53,8 @@
      inkscape:window-height="2066"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="true" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -50,7 +63,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -61,19 +74,19 @@
     <text
        xml:space="preserve"
        id="text18"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect20);fill:#000000;fill-opacity:1;stroke:none;"
-       transform="matrix(1.395506,0,0,1.6658049,-11.361527,-60.266434)"><tspan
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect20);fill:#e00000;fill-opacity:1;stroke:none;"
+       transform="matrix(1.395506,0,0,1.6658049,-25.649027,-84.07893)"><tspan
          x="28.726562"
          y="98.102731"><tspan
-           style="fill:#ffffff;fill-opacity:1">Ip Symcon 
+           style="fill:#e00000;fill-opacity:1">Ip Symcon 
 </tspan></tspan><tspan
          x="28.726562"
          y="111.92053"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print Bold';fill:#ffffff;fill-opacity:1">         designed by
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print Bold';fill:#e00000;fill-opacity:1">         designed by
 </tspan></tspan><tspan
          x="28.726562"
          y="125.73834"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print Bold';fill:#ffffff;fill-opacity:1">                        KAT-CS</tspan></tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print Bold';fill:#e00000;fill-opacity:1">                        KAT-CS</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -95,5 +108,13 @@
          y="140.22908"
          style="stroke-width:0.264583"
          id="tspan30" /></text>
+    <text
+       xml:space="preserve"
+       id="text858"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect860);fill:#000000;fill-opacity:1;stroke:none;" />
+    <text
+       xml:space="preserve"
+       id="text864"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect866);fill:#000000;fill-opacity:1;stroke:none;" />
   </g>
 </svg>
